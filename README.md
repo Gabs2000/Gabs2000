@@ -1,7 +1,7 @@
 # César Acosta (Gabs2000)
 # Software Developer | Ethical Hacker | IT Advanced Manufacturing (MES/ERP/WMS)
 
-<a href="https://www.linkedin.com/in/gabrieldlucacosta">
+<a href="www.linkedin.com/in/cgrdzacosta">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 
@@ -28,10 +28,6 @@ My experience spans across various industries, including automotive and powerspo
 **Beyond the Code:**
 
 I'm an avid learner who enjoys exploring new technologies and staying up-to-date on industry trends. I'm also passionate about contributing to the open-source community and collaborating with others on innovative projects.
-
-**Connect With Me:**
-
-* **LinkedIn:** [https://www.linkedin.com/in/gabrieldlucacosta](https://www.linkedin.com/in/gabrieldlucacosta)
 
 **Let's collaborate!** 
 
