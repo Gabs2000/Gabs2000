@@ -7,12 +7,24 @@ I'm César Acosta (Gabs2000), a passionate software developer with a strong back
 **My expertise:**
 
 * **Software Development:** Skilled in various programming languages and frameworks, with a focus on building efficient and scalable solutions.
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/SQL-E34F26?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<a href="">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/SQL-E34F26?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</a>
 
 * **Ethical Hacking:** Adept at identifying and mitigating security vulnerabilities, ensuring the integrity and safety of critical systems.
 
